@@ -1,9 +1,9 @@
 ### Documentation about Modbus Interface
 
-####General Description:  
+####G eneral Description:  
 Ref: http://www.yoctopuce.com/EN/article/a-quick-tutorial-on-rs485-and-modbus  
 
-####Minimalmodbus python module:  
+#### Minimalmodbus python module:  
 Ref: http://minimalmodbus.readthedocs.io/en/master/  
 
 **Installation:**  
